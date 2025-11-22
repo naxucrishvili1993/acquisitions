@@ -63,3 +63,10 @@
 {"level":"info","message":"New user created: gnakhutsrishvili1011@gmail.com with role: user","service":"acquisitions-api"}
 {"level":"info","message":"User signed up: gnakhutsrishvili1011@gmail.com with role: user","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [22/Nov/2025:10:31:20 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 131 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: gnakhutsrishvili1011@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"User signed in: gnakhutsrishvili1011@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:10:44:53 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 131 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:10:45:07 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:10:45:10 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
